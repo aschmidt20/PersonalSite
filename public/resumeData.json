@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name":"Andrew Schmidt",
+    "occupation":"Software Developer",
+    "description":"...",
+    "image":"profilepic.jpg",
+    "bio":"...",
+    "contactmessage":"...",
+    "email": "schmi651@msu.edu",
+    "phone": "636-300-7874",
+    "address":{
+      "street":"4016 Harvest Meadow Drive",
+      "city":"Saint Peters",
+      "state":"MO",
+      "zip": "63376"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/andrew.schmidt.7355",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ASPMedia27",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrew-schmidt-01025b149/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/aschmidt20",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Needs to be refactored. Want to seperate languages from skills and link skills to individual projects with code examples",
+    "education":[
+      {
+        "school":"Michigan State University",
+        "degree":"B.S. Computer Science",
+        "graduated":"December, 2018",
+        "description":"Gradutated with honors and a minor in Mathematics..."
+      },
+      {
+        "school":"Michigan State University",
+        "degree":"M.S. Computer Science",
+        "graduated":"March 2003",
+        "description":"Grad Student..."
+      }
+    ],
+    "work":[
+      {
+        "company":"Centene Corporation",
+        "title":"Software Development Intern",
+        "years":"Summer 2017",
+        "description":"..."
+      },
+      {
+        "company":"Genesis Investments LLC",
+        "title":"Co-founder/CTO",
+        "years":"November 2017-Present",
+        "description":"..."
+      },
+      {
+        "company":"Trove Labs LLC",
+        "title":"Co-founder/CTO",
+        "years":"October 2018-Present",
+        "description":"..."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"0%"
+      },
+      {
+        "name":"Java",
+        "level":"0%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"0%"
+      },
+      {
+        "name":"SQL",
+        "level":"0%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"0%"
+      },
+      {
+        "name":"C++",
+        "level":"0%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"0%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Genesis Investments Crypto Hub",
+        "category":"...",
+        "image":"gi.png",
+        "url":"https://www.genesiscrypto.fund"
+      },
+      {
+        "title":"Trove Labs Merchant Dashboard",
+        "category":"...",
+        "image":"trove.png",
+        "url":"http://www.gettroveapp.com"
+      },
+      {
+        "title":"Groove Guide for Spotify",
+        "category":"...",
+        "image":"grooveguide.png",
+        "url":"..."
+      },
+      {
+        "title":"Project Slippi",
+        "category":"...",
+        "image":"slippi.png",
+        "url":"http://www.slippi.gg"
+      }
+
+    ]
+  }
+ 
+}
