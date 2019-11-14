@@ -15,7 +15,7 @@
       "zip": "63376"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"resume.docx",
     "social":[
       {
         "name":"facebook",
@@ -46,34 +46,53 @@
         "school":"Michigan State University",
         "degree":"B.S. Computer Science",
         "graduated":"December, 2018",
-        "description":"Gradutated with honors and a minor in Mathematics..."
+        "gpa":"GPA: 3.77",
+        "extra":"Graduated from the Honors College with a minor in Mathematics",
+        "courses":"Relevant Coursework: Algorithm Engineering, Database Systems, Linear Algebra, Numerical Analysis, Software Design and Network Security"
+  
       },
       {
         "school":"Michigan State University",
-        "degree":"M.S. Computer Science",
-        "graduated":"March 2003",
-        "description":"Grad Student..."
+        "degree":"B.S. Computer Science",
+        "graduated":"December, 2018",
+
+          "gpa":"GPA 3.80",
+          "extra":"",
+          "courses":"Relevant Coursework: Data Mining, Artificial Intelligence, Natural Language Processing, Distributed Systems, Computer Vision"
       }
     ],
     "work":[
       {
-        "company":"Centene Corporation",
-        "title":"Software Development Intern",
-        "years":"Summer 2017",
-        "description":"..."
-      },
-      {
-        "company":"Genesis Investments LLC",
-        "title":"Co-founder/CTO",
-        "years":"November 2017-Present",
-        "description":"..."
+        "company":"Michigan State University",
+        "title":"Teaching Assistant",
+        "years":"Summer 2019 and Fall 2019",
+        "description":"Graduate teaching assistant for Web Application Development and Object Oriented Programming. Responsible for monitoring online Q&A forum and assisting students during in-person lab hours."
       },
       {
         "company":"Trove Labs LLC",
         "title":"Co-founder/CTO",
-        "years":"October 2018-Present",
-        "description":"..."
+        "years":"March 2019-Present",
+        "description":"Lead developer for mobile loyalty program and promotions platform. See below for more information."
+      },
+      {
+        "company":"Michigan State University",
+        "title":"Software Development Intern",
+        "years":"Spring 2018",
+        "description":"Worked on a team of 5 students in MSU senior capstone course. Designed and implemented anomaly detection module for client partner, MSUFCU. Developed machine learning fraud detection module with Keras with Django dashboard." 
+      },
+      {
+        "company":"Genesis Investments LLC",
+        "title":"Co-founder/CTO",
+        "years":"January 2018-Present",
+        "description":"Lead developer for algorithm-based cryptocurrency investment platform. See below for more information."
+      },
+      {
+        "company":"Centene Corporation",
+        "title":"Software Development Intern",
+        "years":"Summer 2017",
+        "description":"Software developer for member experience application centered around big data analysis. Delivered APIs which provided snapshot of member activities to determine course of action for customer service representatives. Developed new RESTful APIs and expanded services of existing APIs using Spring. Experience working on Agile scrum team."
       }
+
     ],
     "skills":[
       {
@@ -109,29 +128,24 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Genesis Investments Crypto Hub",
-        "category":"...",
-        "image":"gi.png",
-        "url":"https://www.genesiscrypto.fund"
-      },
-      {
-        "title":"Trove Labs Merchant Dashboard",
-        "category":"...",
-        "image":"trove.png",
-        "url":"http://www.gettroveapp.com"
+        "title":"Billboard Artist Prediction",
+        "category":"Predicting artist popularity based on Twitter data",
+        "image":"billboard+twitter.jpg",
+        "url":"https://github.com/aschmidt20/BillboardPrediction"
       },
       {
         "title":"Groove Guide for Spotify",
-        "category":"...",
+        "category":"Web application for real-time music discovery",
         "image":"grooveguide.png",
-        "url":"..."
+        "url":"https://grooveguide.tk"
       },
       {
         "title":"Project Slippi",
-        "category":"...",
+        "category":"Contributed to data analytics application for video game replays",
         "image":"slippi.png",
         "url":"http://www.slippi.gg"
       }
+
 
     ]
   }

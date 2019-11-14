@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
 
 class Resume extends Component {
+  
   render() {
-
     if(this.props.data){
+      console.log(this.props.data.education);
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+        <ul><li>{education.gpa}</li><li>{education.extra}</li><li>{education.courses}</li></ul>
+        
+    </div>
       })
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
@@ -60,15 +63,19 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+        <ul style={{listStyleType:'circle'}}>
+            <li>Python (Pandas, NumPy, scikit-learn, TensorFlow, Keras, matplotlib)</li>
+            <li>Java (Spring)</li>
+            <li>C++</li>
+            <li>Web Development with HTML, CSS, PHP, ReactJS, Django</li>
+            <li>Data Management with SQL and Firebase</li>
+            <li>Data Mining: Preprocessing, Classification, Clustering, Association Rule Mining and Regression</li>
+            <li>Data Visualization: matplotlib, seaborn, and dashboards with Django/Reactjs</li>
+            <li>Strong written and verbal communication skills</li>
 
-            <p>{skillmessage}
-            </p>
+        </ul>
 
-				<div className="bars">
-				   <ul className="skills">
-					  {skills}
-					</ul>
-				</div>
+				
 			</div>
       </div>
    </section>
@@ -77,3 +84,5 @@ class Resume extends Component {
 }
 
 export default Resume;
+
+

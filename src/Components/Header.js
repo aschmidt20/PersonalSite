@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class Header extends Component {
   render() {
 
@@ -32,8 +33,9 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">Hi, I'm {name}.</h1>
-            <h3>...</h3>
+         
+            <h1 className="responsive-headline">Hi, I'm {name}</h1>
+            <h4 style={{color: 'white'}}>Software Developer | Entrepreneur</h4>
             <hr />
             <ul className="social">
                {networks}
