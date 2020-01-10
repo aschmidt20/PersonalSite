@@ -15,7 +15,7 @@
       "zip": "63376"
     },
     "website": "",
-    "resumedownload":"resume.docx",
+    "resumedownload":"Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -53,20 +53,20 @@
       },
       {
         "school":"Michigan State University",
-        "degree":"B.S. Computer Science",
-        "graduated":"December, 2018",
+        "degree":"M.S. Computer Science",
+        "graduated":"Expected May, 2020",
 
-          "gpa":"GPA 3.80",
+          "gpa":"",
           "extra":"",
-          "courses":"Relevant Coursework: Data Mining, Artificial Intelligence, Natural Language Processing, Distributed Systems, Computer Vision"
+          "courses":"Relevant Coursework: Data Mining, Artificial Intelligence, Natural Language Processing, Distributed Systems, Computer Vision, and Machine Learning"
       }
     ],
     "work":[
       {
         "company":"Michigan State University",
         "title":"Teaching Assistant",
-        "years":"Summer 2019 and Fall 2019",
-        "description":"Graduate teaching assistant for Web Application Development and Object Oriented Programming. Responsible for monitoring online Q&A forum and assisting students during in-person lab hours."
+        "years":"May 2019 - Present",
+        "description":"Graduate teaching assistant for Web Application Development (Summer 2019) and Object Oriented Programming (Fall 2019 and Spring 2020). Responsible for monitoring online Q&A forum, assisting students during in-person lab hours, proctoring exams, and grading."
       },
       {
         "company":"Trove Labs LLC",
@@ -137,7 +137,7 @@
         "title":"Groove Guide for Spotify",
         "category":"Web application for real-time music discovery",
         "image":"grooveguide.png",
-        "url":"https://grooveguide.tk"
+        "url":"https://groove-guide.com"
       },
       {
         "title":"Project Slippi",

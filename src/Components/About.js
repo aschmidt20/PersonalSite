@@ -29,7 +29,7 @@ class About extends Component {
 
             <p style={{color:"white"}}>In my senior year of high school, I was awarded the Alumni Distinguished Full Ride Scholarship to attend Michigan State University.</p><p style={{color:"white"}}>
 
-My scholarship covered four years of education and I made it my mission to learn and do as many things as possible in these four years. I graduated with by B.S., Computer Science with a minor in Math in 2 1/2 years. I was a member of Smash Club, Vice President of Poker Club, and Founding Father of Sigma Tau Gamma Fraternity. I have also been involved with the MSU Hatch and Spartan Innovations to launch two startup companies: Genesis Investments and Trove Labs. 
+My scholarship covered four years of education and I made it my mission to learn and do as many things as possible in these four years. I graduated with by B.S., Computer Science with a minor in Math in 2 1/2 years. I was a member of Smash Club, Vice President of Poker Club, and Founding Father of Sigma Tau Gamma Fraternity. I have also been involved with the <a href='http://msuhatch.com/'>MSU Hatch and Spartan Innovations</a> to launch two startup companies: Genesis Investments and Trove Labs. 
 
 </p><p style={{color:"white"}}>I'm currently in my fourth year, and I'm on track to graduate with a Master's in Computer Science in May, 2020. This year I've continued working as an entrepreneur and picked up a position as a graduate teaching assistant. I'm looking to find a full-time job in the area of software engineering.</p>
             <div className="row">
