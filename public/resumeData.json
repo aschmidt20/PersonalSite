@@ -54,19 +54,27 @@
       {
         "school":"Michigan State University",
         "degree":"M.S. Computer Science",
-        "graduated":"Expected May, 2020",
+        "graduated":"May, 2020",
 
-          "gpa":"",
+          "gpa":"GPA: 3.75",
           "extra":"",
-          "courses":"Relevant Coursework: Data Mining, Artificial Intelligence, Natural Language Processing, Distributed Systems, Computer Vision, and Machine Learning"
+          "courses":"All of my graduate courses and course projects are listed below:",
+          "datamining": "Data Mining - Techniques and algorithms for knowledge discovery in databases. From data preprocessing and transformation to model validation and post-processing. Core concepts include association analysis, sequential pattern discovery, anomaly detection, predictive modeling, and cluster analysis. Course Project: Using Twitter to Predict Billboard Top 100 Artist Rankings.",
+          "ai": "Artificial Inteligence -Cognitive models, goal-based systems, and language understanding with a focus on theorem proving and deductive systems. Course Project: Spotify Music Recommendation Experiment.",
+          "cv":"Computer Vision - Applications of visual information processing techniques. Covers image encoding, enhancement, edge detection, segmentation. 2D and 3D object description and recognition, and scene analysis. Course Project: Convolutional Masking Layers for Food Classification.",
+          "multi":"Multi-Disciplinary Study of Evolution - Teams of students across multiple disciplines work on group projects to answer fundamental questions about the dynamics of evolutionary systems. Focus on experimental design, statistical analysis, data visualization, and paper/grant writing. Course Project: An Analysis of Multi-Objective Optimisation for Heterogeneous Task Scheduling.",
+          "ml":"Machine Learning - Computational study of various paradigms in learning and data mining. Strengths and limitations of various learning paradigms, including supervised learning, learning from scalar reward, unsupervised learning, and learning with domain knowledge. Course Project: Gotta Learn Fast: Generalized Reinforcement Learning. ",
+          "distributed":"Distributed Systems - Principles, paradigms and assurance techniques used in distributed systems. Focus on fault tolerance and research in design and implementation of distributed systems. Project: A Survey of Byzantine Fault Tolerant Consensus Mechanisms in Blockchain.",
+          "foundations":"Foundations of Computing - Models of computation: partial recursive functions, Turing machines, alternative models of computing. Basic theory and limitations of computability and undecidability. Resource-bounded computational complexity, non-determinism, and NP-completeness. Course Project: Proving the Hilbert's 10th Problem Is Unsolvable.",
+          "nlp":"Natural Language Processing - Models and algorithms for natural language processing including syntax, semantics, pragmatics, and discourse. Knowledge-based and statistical approaches to a variety of language related applications. Course Project: Parameter Tuning and Task Framing for Commensense Reasoning Tasks."
       }
     ],
     "work":[
       {
         "company":"Michigan State University",
         "title":"Teaching Assistant",
-        "years":"May 2019 - Present",
-        "description":"Graduate teaching assistant for Web Application Development (Summer 2019) and Object Oriented Programming (Fall 2019 and Spring 2020). Responsible for monitoring online Q&A forum, assisting students during in-person lab hours, proctoring exams, and grading."
+        "years":"May 2019 - May 2020",
+        "description":"Graduate teaching assistant for Web Application Development (Summer 2019) and Object Oriented Programming (Fall 2019 and Spring 2020). Responsible for monitoring online Q&A forum, assisting students during in-person lab hours, proctoring exams, and grading. For Web Application Development, I assisted students through online help forum with development of web applications using HTML, PHP, CSS, SQL, and JavaScript to build responsive browser interfaces for remote database backed sites. For Object Oriented Programming, I was responsible for conducting in-person and online help hours to assist students with the development of MFC applications in C++ with a focus on teaching object-oriented methodologies."
       },
       {
         "company":"Trove Labs LLC",

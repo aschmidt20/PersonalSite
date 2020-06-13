@@ -5,7 +5,7 @@ class About extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
+      var profilepic= "images/portfolio/grad.jpg";
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
@@ -20,7 +20,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns" style={{width:'35%'}}>
-            <img className="profile-pic"  src={profilepic} style={{width: "300px", height:"375px"}} alt="Andrew Schmidt Profile Pic" />
+            <img className="profile-pic"  src={profilepic} style={{width: "300px", height:"333px"}} alt="Andrew Schmidt Profile Pic" />
             <div style={{color: 'white', textAlign: 'center'}}><p style={{marginBottom:'0px', color: 'white'}}> &#x2193; Check out my music below &#x2193;</p></div>
             <iframe src="https://open.spotify.com/embed/artist/1ZYwU0XJAEe1gUejqyqkhv" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
          </div>
@@ -29,9 +29,9 @@ class About extends Component {
 
             <p style={{color:"white"}}>In my senior year of high school, I was awarded the Alumni Distinguished Full Ride Scholarship to attend Michigan State University.</p><p style={{color:"white"}}>
 
-My scholarship covered four years of education and I made it my mission to learn and do as many things as possible in these four years. I graduated with by B.S., Computer Science with a minor in Math in 2 1/2 years. I was a member of Smash Club, Vice President of Poker Club, and Founding Father of Sigma Tau Gamma Fraternity. I have also been involved with the <a href='http://msuhatch.com/'>MSU Hatch and Spartan Innovations</a> to launch two startup companies: Genesis Investments and Trove Labs. 
+My scholarship covered four years of education and I made it my mission to learn and do as many things as possible in these four years. I graduated with by B.S., Computer Science with a minor in Math in 2 1/2 years. I was a member of Smash Club, Vice President of Poker Club, and Founding Father of Sigma Tau Gamma Fraternity. I have also been involved with the <a href='http://msuhatch.com/'>MSU Hatch and Spartan Innovations</a> to launch two startup companies: Genesis Investments and LiveSpot (formerly Trove Labs LLC). 
 
-</p><p style={{color:"white"}}>I'm currently in my fourth year, and I'm on track to graduate with a Master's in Computer Science in May, 2020. This year I've continued working as an entrepreneur and picked up a position as a graduate teaching assistant. I'm looking to find a full-time job in the area of software engineering.</p>
+</p><p style={{color:"white"}}>I just finished my final semester and graduated with my Masters of Computer Science in May 2020. Throughout graduate school I worked as a teaching assistant under <a href="https://www.cse.msu.edu/~cbowen/">Dr. Charles Owen</a> helping students in Web Application Development and Object Oriented Programming. Currently I'm continuing to work on both start-ups and I'm also searching for permanent employment as a full-time software engineer. I have proven leadership, desire to learn, software engineering and experience with a wide variety of technologies and software/product development. I have a passion for leveraging software and data to make a difference in peoples lives, and I'm seeking to apply my skillset and ideas in a full time Software Engineering role. </p>    
             <div className="row">
                <div className="columns contact-details">
                   <br></br>

@@ -37,11 +37,12 @@ class Header extends Component {
             <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <h4 style={{color: 'white'}}>Software Developer | Entrepreneur</h4>
             <hr />
-            <ul className="social">
-               {networks}
-            </ul>
+            <h4 style={{color:'white'}}>&#8595; Check out my company websites &#8595;</h4> 
+               <hr />
+               <div className="company-panel" style={{display:'inline-block'}}><a href="https://genesiscrypto.fund"><img src="images/portfolio/genesis2.png" alt="Genesis Investments Logo"></img></a></div>
+               <div className="company-panel" style={{display:'inline-block'}}><a href="https://livespot.tk"><img src="images/portfolio/livespot.png" alt="LiveSpot Logo"></img></a></div>
          </div>
-      </div>
+        </div>
 
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
