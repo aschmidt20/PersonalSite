@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.5.1",
+    "re-carousel": "^2.4.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
+    "react-glider": "^2.0.1",
+    "react-responsive-carousel": "^3.2.8",
     "react-scripts": "^3.4.1"
   },
   "scripts": {

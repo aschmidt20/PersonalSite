@@ -1,161 +1,150 @@
 {
   "main": {
-    "name":"Andrew Schmidt",
-    "occupation":"Software Developer",
-    "description":"Test Description Update",
-    "image":"profilepic.jpg",
-    "bio":"...",
-    "contactmessage":"...",
+    "name": "Andrew Schmidt",
+    "occupation": "Software Developer",
+    "description": "Test Description Update",
+    "image": "profilepic.jpg",
+    "bio": "...",
+    "contactmessage": "...",
     "email": "schmi651@msu.edu",
     "phone": "636-300-7874",
-    "address":{
-      "street":"4016 Harvest Meadow Drive",
-      "city":"Saint Peters",
-      "state":"MO",
-      "zip": "63376"
-    },
     "website": "",
-    "resumedownload":"Resume.pdf",
-    "social":[
+    "resumedownload": "Resume.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/andrew.schmidt.7355",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/andrew.schmidt.7355",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/ASPMedia27",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/ASPMedia27",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/andrew-schmidt-01025b149/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrew-schmidt-01025b149/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/aschmidt20",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/aschmidt20",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Needs to be refactored. Want to seperate languages from skills and link skills to individual projects with code examples",
-    "education":[
+  "resume": {
+    "skillmessage": "Needs to be refactored. Want to seperate languages from skills and link skills to individual projects with code examples",
+    "education": [
       {
-        "school":"Michigan State University",
-        "degree":"B.S. Computer Science",
-        "graduated":"December, 2018",
-        "gpa":"GPA: 3.77",
-        "extra":"Graduated from the Honors College with a minor in Mathematics",
-        "courses":"Relevant Coursework: Algorithm Engineering, Database Systems, Linear Algebra, Numerical Analysis, Software Design and Network Security"
-  
+        "school": "Michigan State University",
+        "degree": "B.S. Computer Science",
+        "graduated": "December, 2018",
+        "gpa": "GPA: 3.77",
+        "extra": "Graduated from the Honors College with a minor in Mathematics",
+        "courses": "Relevant Coursework: Algorithm Engineering, Database Systems, Linear Algebra, Numerical Analysis, Software Design and Network Security"
       },
       {
-        "school":"Michigan State University",
-        "degree":"M.S. Computer Science",
-        "graduated":"May, 2020",
+        "school": "Michigan State University",
+        "degree": "M.S. Computer Science",
+        "graduated": "May, 2020",
 
-          "gpa":"GPA: 3.75",
-          "extra":"",
-          "courses":"All of my graduate courses and course projects are listed below:",
-          "datamining": "Data Mining - Techniques and algorithms for knowledge discovery in databases. From data preprocessing and transformation to model validation and post-processing. Core concepts include association analysis, sequential pattern discovery, anomaly detection, predictive modeling, and cluster analysis. Course Project: Using Twitter to Predict Billboard Top 100 Artist Rankings.",
-          "ai": "Artificial Inteligence -Cognitive models, goal-based systems, and language understanding with a focus on theorem proving and deductive systems. Course Project: Spotify Music Recommendation Experiment.",
-          "cv":"Computer Vision - Applications of visual information processing techniques. Covers image encoding, enhancement, edge detection, segmentation. 2D and 3D object description and recognition, and scene analysis. Course Project: Convolutional Masking Layers for Food Classification.",
-          "multi":"Multi-Disciplinary Study of Evolution - Teams of students across multiple disciplines work on group projects to answer fundamental questions about the dynamics of evolutionary systems. Focus on experimental design, statistical analysis, data visualization, and paper/grant writing. Course Project: An Analysis of Multi-Objective Optimisation for Heterogeneous Task Scheduling.",
-          "ml":"Machine Learning - Computational study of various paradigms in learning and data mining. Strengths and limitations of various learning paradigms, including supervised learning, learning from scalar reward, unsupervised learning, and learning with domain knowledge. Course Project: Gotta Learn Fast: Generalized Reinforcement Learning. ",
-          "distributed":"Distributed Systems - Principles, paradigms and assurance techniques used in distributed systems. Focus on fault tolerance and research in design and implementation of distributed systems. Project: A Survey of Byzantine Fault Tolerant Consensus Mechanisms in Blockchain.",
-          "foundations":"Foundations of Computing - Models of computation: partial recursive functions, Turing machines, alternative models of computing. Basic theory and limitations of computability and undecidability. Resource-bounded computational complexity, non-determinism, and NP-completeness. Course Project: Proving the Hilbert's 10th Problem Is Unsolvable.",
-          "nlp":"Natural Language Processing - Models and algorithms for natural language processing including syntax, semantics, pragmatics, and discourse. Knowledge-based and statistical approaches to a variety of language related applications. Course Project: Parameter Tuning and Task Framing for Commensense Reasoning Tasks."
+        "gpa": "GPA: 3.75",
+        "extra": "",
+        "courses": "All of my graduate courses and course projects are listed below:",
+        "datamining": "Data Mining - Techniques and algorithms for knowledge discovery in databases. From data preprocessing and transformation to model validation and post-processing. Core concepts include association analysis, sequential pattern discovery, anomaly detection, predictive modeling, and cluster analysis. Course Project: Using Twitter to Predict Billboard Top 100 Artist Rankings.",
+        "ai": "Artificial Inteligence -Cognitive models, goal-based systems, and language understanding with a focus on theorem proving and deductive systems. Course Project: Spotify Music Recommendation Experiment.",
+        "cv": "Computer Vision - Applications of visual information processing techniques. Covers image encoding, enhancement, edge detection, segmentation. 2D and 3D object description and recognition, and scene analysis. Course Project: Convolutional Masking Layers for Food Classification.",
+        "multi": "Multi-Disciplinary Study of Evolution - Teams of students across multiple disciplines work on group projects to answer fundamental questions about the dynamics of evolutionary systems. Focus on experimental design, statistical analysis, data visualization, and paper/grant writing. Course Project: An Analysis of Multi-Objective Optimisation for Heterogeneous Task Scheduling.",
+        "ml": "Machine Learning - Computational study of various paradigms in learning and data mining. Strengths and limitations of various learning paradigms, including supervised learning, learning from scalar reward, unsupervised learning, and learning with domain knowledge. Course Project: Gotta Learn Fast: Generalized Reinforcement Learning. ",
+        "distributed": "Distributed Systems - Principles, paradigms and assurance techniques used in distributed systems. Focus on fault tolerance and research in design and implementation of distributed systems. Project: A Survey of Byzantine Fault Tolerant Consensus Mechanisms in Blockchain.",
+        "foundations": "Foundations of Computing - Models of computation: partial recursive functions, Turing machines, alternative models of computing. Basic theory and limitations of computability and undecidability. Resource-bounded computational complexity, non-determinism, and NP-completeness. Course Project: Proving the Hilbert's 10th Problem Is Unsolvable.",
+        "nlp": "Natural Language Processing - Models and algorithms for natural language processing including syntax, semantics, pragmatics, and discourse. Knowledge-based and statistical approaches to a variety of language related applications. Course Project: Parameter Tuning and Task Framing for Commensense Reasoning Tasks."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Michigan State University",
-        "title":"Teaching Assistant",
-        "years":"May 2019 - May 2020",
-        "description":"Graduate teaching assistant for Web Application Development (Summer 2019) and Object Oriented Programming (Fall 2019 and Spring 2020). Responsible for monitoring online Q&A forum, assisting students during in-person lab hours, proctoring exams, and grading. For Web Application Development, I assisted students through online help forum with development of web applications using HTML, PHP, CSS, SQL, and JavaScript to build responsive browser interfaces for remote database backed sites. For Object Oriented Programming, I was responsible for conducting in-person and online help hours to assist students with the development of MFC applications in C++ with a focus on teaching object-oriented methodologies."
+        "company": "Michigan State University",
+        "title": "Teaching Assistant",
+        "years": "May 2019 - May 2020",
+        "description": "Graduate teaching assistant for Web Application Development (Summer 2019) and Object Oriented Programming (Fall 2019 and Spring 2020). Responsible for monitoring online Q&A forum, assisting students during in-person lab hours, proctoring exams, and grading. For Web Application Development, I assisted students through online help forum with development of web applications using HTML, PHP, CSS, SQL, and JavaScript to build responsive browser interfaces for remote database backed sites. For Object Oriented Programming, I was responsible for conducting in-person and online help hours to assist students with the development of MFC applications in C++ with a focus on teaching object-oriented methodologies."
       },
       {
-        "company":"Trove Labs LLC",
-        "title":"Co-founder/CTO",
-        "years":"March 2019-Present",
-        "description":"Lead developer for mobile loyalty program and promotions platform. See below for more information."
+        "company": "Trove Labs LLC",
+        "title": "Co-founder/CTO",
+        "years": "March 2019-Present",
+        "description": "Lead developer for mobile loyalty program and promotions platform. See below for more information."
       },
       {
-        "company":"Michigan State University",
-        "title":"Software Development Intern",
-        "years":"Spring 2018",
-        "description":"Worked on a team of 5 students in MSU senior capstone course. Designed and implemented anomaly detection module for client partner, MSUFCU. Developed machine learning fraud detection module with Keras with Django dashboard." 
+        "company": "Michigan State University",
+        "title": "Software Development Intern",
+        "years": "Spring 2018",
+        "description": "Worked on a team of 5 students in MSU senior capstone course. Designed and implemented anomaly detection module for client partner, MSUFCU. Developed machine learning fraud detection module with Keras with Django dashboard."
       },
       {
-        "company":"Genesis Investments LLC",
-        "title":"Co-founder/CTO",
-        "years":"January 2018-Present",
-        "description":"Lead developer for algorithm-based cryptocurrency investment platform. See below for more information."
+        "company": "Genesis Investments LLC",
+        "title": "Co-founder/CTO",
+        "years": "January 2018-Present",
+        "description": "Lead developer for algorithm-based cryptocurrency investment platform. See below for more information."
       },
       {
-        "company":"Centene Corporation",
-        "title":"Software Development Intern",
-        "years":"Summer 2017",
-        "description":"Software developer for member experience application centered around big data analysis. Delivered APIs which provided snapshot of member activities to determine course of action for customer service representatives. Developed new RESTful APIs and expanded services of existing APIs using Spring. Experience working on Agile scrum team."
+        "company": "Centene Corporation",
+        "title": "Software Development Intern",
+        "years": "Summer 2017",
+        "description": "Software developer for member experience application centered around big data analysis. Delivered APIs which provided snapshot of member activities to determine course of action for customer service representatives. Developed new RESTful APIs and expanded services of existing APIs using Spring. Experience working on Agile scrum team."
       }
-
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"0%"
+        "name": "Python",
+        "level": "0%"
       },
       {
-        "name":"Java",
-        "level":"0%"
+        "name": "Java",
+        "level": "0%"
       },
       {
-        "name":"ReactJs",
-        "level":"0%"
+        "name": "ReactJs",
+        "level": "0%"
       },
       {
-        "name":"SQL",
-        "level":"0%"
+        "name": "SQL",
+        "level": "0%"
       },
       {
-        "name":"HTML/CSS",
-        "level":"0%"
+        "name": "HTML/CSS",
+        "level": "0%"
       },
       {
-        "name":"C++",
-        "level":"0%"
+        "name": "C++",
+        "level": "0%"
       },
       {
-        "name":"MongoDB",
-        "level":"0%"
+        "name": "MongoDB",
+        "level": "0%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Billboard Artist Prediction",
-        "category":"Predicting artist popularity based on Twitter data",
-        "image":"billboard+twitter.jpg",
-        "url":"https://github.com/aschmidt20/BillboardPrediction"
+        "title": "Billboard Artist Prediction",
+        "category": "Predicting artist popularity based on Twitter data",
+        "image": "billboard+twitter.jpg",
+        "url": "https://github.com/aschmidt20/BillboardPrediction"
       },
       {
-        "title":"Groove Guide for Spotify",
-        "category":"Web application for real-time music discovery",
-        "image":"grooveguide.png",
-        "url":"https://groove-guide.com"
+        "title": "Groove Guide for Spotify",
+        "category": "Web application for real-time music discovery",
+        "image": "grooveguide.png",
+        "url": "https://groove-guide.com"
       },
       {
-        "title":"Project Slippi",
-        "category":"Contributed to data analytics application for video game replays",
-        "image":"slippi.png",
-        "url":"http://www.slippi.gg"
+        "title": "Project Slippi",
+        "category": "Contributed to data analytics application for video game replays",
+        "image": "slippi.png",
+        "url": "http://www.slippi.gg"
       }
-
-
     ]
   }
- 
 }
